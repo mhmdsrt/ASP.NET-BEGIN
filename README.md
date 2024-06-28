@@ -15,3 +15,5 @@ Geri dön link'i ise ana sayfaya en başa yönlendiriyor.
 ![Ekran Görüntüsü (313)](https://github.com/mhmdsrt/ASP.NET-BEGIN/assets/164398109/246eda2c-fee9-4879-8026-9df0d74f9623)
 ![Ekran Görüntüsü (305)](https://github.com/mhmdsrt/ASP.NET-BEGIN/assets/164398109/6915b789-c628-49e0-affb-bad8d0e6470d)
 ![Ekran Görüntüsü (304)](https://github.com/mhmdsrt/ASP.NET-BEGIN/assets/164398109/b64fe856-5090-41b4-8fa7-15ac3a178154)
+![Ekran Görüntüsü (317)](https://github.com/mhmdsrt/ASP.NET-BEGIN/assets/164398109/80f3a59e-372c-4f54-8654-a5a497be04f9)
+![Ekran Görüntüsü (318)](https://github.com/mhmdsrt/ASP.NET-BEGIN/assets/164398109/e91a5ef3-04ae-4045-8db1-d4053f68a419)
