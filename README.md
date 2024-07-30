@@ -1,4 +1,4 @@
-# ASP.NET-BEGIN
+# ASP.NET-BEGINNER
 ASP.NET BEGINNER-LEVEL.
 
 Her şampiyonun linki'ne tıklayınca o şampiyonun yeteneklerinin anlatıldığı yere yönlendiriyor.
