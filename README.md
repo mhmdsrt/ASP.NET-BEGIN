@@ -1,5 +1,5 @@
 # ASP.NET-BEGIN
-ASP.NET ENTRY-LEVEL.
+ASP.NET BEGINNER-LEVEL.
 
 Her şampiyonun linki'ne tıklayınca o şampiyonun yeteneklerinin anlatıldığı yere yönlendiriyor.
 Geri dön link'i ise ana sayfaya en başa yönlendiriyor.
