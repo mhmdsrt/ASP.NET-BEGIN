@@ -1,7 +1,7 @@
 # ASP.NET-BEGINNER
 ASP.NET BEGINNER-LEVEL.
 
-Her şampiyonun linki'ne tıklayınca o şampiyonun yeteneklerinin anlatıldığı yere yönlendiriyor.
+Her şampiyonun Linki'ne tıklayınca o şampiyonun yeteneklerinin anlatıldığı yere yönlendiriyor.
 Geri dön Link'i ise ana sayfaya yani en başa yönlendiriyor.
 
 ![Ekran Görüntüsü (299)](https://github.com/mhmdsrt/ASP.NET-BEGIN/assets/164398109/4d7d8af7-606e-498c-999a-433af89c3c66)
